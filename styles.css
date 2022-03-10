@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.skills{
+    padding: 5px 0;
+    color: #fff;
+    background-color: #dddddd;
+}
+.ui{
+    width: 80%;
+    background-color: #00A78E;
+}
